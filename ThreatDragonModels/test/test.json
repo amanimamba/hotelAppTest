@@ -1,0 +1,36 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "test",
+    "owner": "hotelapp",
+    "description": "test",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "ramses"
+      },
+      {
+        "name": "eloge"
+      },
+      {
+        "name": "claude"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "phase 1",
+        "diagramType": "Générique",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "dev",
+    "threatTop": 0
+  }
+}
